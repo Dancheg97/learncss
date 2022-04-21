@@ -1,0 +1,2 @@
+dockerps:
+	docker ps
